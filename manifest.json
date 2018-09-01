@@ -3,7 +3,7 @@
 
     "name": "Stylize Expo",
     "description": "Tweaks the styling of the https://expo.io environment.",
-    "version": "0.1.1",
+    "version": "0.1.2",
 
     "content_scripts": [
         {
